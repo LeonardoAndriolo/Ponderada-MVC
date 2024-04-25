@@ -1,17 +1,18 @@
 # Ponderada - Design de Arquitetura
  
-# Link de download Draw.io
+## Link de download [Draw.io](https://drive.google.com/file/d/1u1ascvHoU5ayWn1yCdNxPvwJKT5ECCgw/view?usp=sharing)
+
 ![alt text](image.png)
 
-# Arquitetura MVC
-Nome do Projeto: SPARK
-Descrição: SPARK (Strategic Programming and Application Resource Knowledge) é uma plataforma web para o treinamento e atualização de funcionários montadores de computador através de manuais. A plataforma será acessada também por engenheiros administradores que farão a gestão da mesma.
-Arquitetura: MVC (Model-View-Controller)
-Ferramenta de Diagramação: draw.io
+
+## Arquitetura MVC
+- **Nome do Projeto:** SPARK
+- **Descrição:** SPARK (Strategic Programming and Application Resource Knowledge) é uma plataforma web para o treinamento e atualização de funcionários montadores de computador através de manuais. A plataforma será acessada também por engenheiros administradores que farão a gestão da mesma.
+- **Arquitetura:** MVC (Model-View-Controller)
+- **Ferramenta de Diagramação:** draw.io
 
 ## Modelos (Models):
 ### Entidades
-
 #### Manual
 ##### Atributos:
 - **id**: Identificador único do manual (chave primária).
